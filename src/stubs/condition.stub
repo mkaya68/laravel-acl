@@ -1,0 +1,30 @@
+<?php namespace DummyRootNamespace\DummyNamespace;
+
+use Slynova\Acl\Contracts\Condition;
+
+class DummyClass implements Condition
+{
+    /**
+     * Name of the condition.
+     *
+     * @var string
+     */
+    protected $name = '';
+
+    /**
+     * Description of the condition.
+     *
+     * @var string
+     */
+    protected $description = '';
+
+    /**
+     * Handle the condition.
+     *
+     * @return void
+     */
+    public function handle()
+    {
+        //
+    }
+}
