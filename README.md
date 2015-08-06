@@ -75,7 +75,7 @@ Here's the TODO list for the stable release (**1.0**).
 - [ ] Create an example application to show how to use this package.
 - [ ] Create a general PHP package and just use a driver for Laravel.
 - [ ] Get 100% in code coverage.
-- [ ] Get 10 score in Scrunitizer.
+- [ ] Get 10 score in Scrutinizer.
 - [ ] Clean the code.
 
 # <a name="change-logs"></a>Change Logs
